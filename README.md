@@ -2,7 +2,7 @@
  A simple Internet Speed Tester which runs n number of test to find the speed 
 
 
-![image](https://github.com/tanaybhomia/Speedometer/assets/71910027/3d0422eb-bd55-4d3f-b185-22bf2718281e)
+![image](https://github.com/tanaybhomia/Speedometer/assets/71910027/13f5f1f7-e859-40b4-9e40-bcc4cb307239)
 
 
 ## How Does this Work 
