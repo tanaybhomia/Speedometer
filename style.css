@@ -1,0 +1,64 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+	box-sizing: border-box;
+}
+.container
+{
+	background-color: #ebdbb2;
+	height: 100vh;
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	padding: 28px 32px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+body
+{
+	letter-spacing: 3px;
+	font-family: 'Fira Code',sans-serif;
+	align-items: center;
+	justify-content: center;
+}
+.meter img
+{
+	height: 300px;
+	width: 300px;
+	justify-content: center;
+	transition: 0.4s ease-out;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	justify-content: center;
+	align-items: center;
+}
+p
+{
+	font-weight: 600;
+	margin-top: 5px;
+}
+span
+{
+	font-weight: 400;
+	font-size: 21px;
+}
+#mbs
+{
+	margin-top: 20px;
+}
+.meter
+{
+	position: relative;
+	border-radius: 16px;
+	background-color: #bdae93;
+	color: #504945;
+	transition: 0.4s ease-in;
+	height: 500px;
+	width: 450px;
+	display: flex;
+	flex-direction: column;
+	box-shadow: 0 1.6em 2.4em ;
+}
